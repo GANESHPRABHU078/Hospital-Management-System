@@ -162,7 +162,7 @@
 ---
 
 ## GitHub Project Link
-- [GitHub Repository for Hospital Management System](https://github.com/ravikumarxworkz/hospital-management-system)
+- [GitHub Repository for Hospital Management System](https://github.com/GANESHPRABHU078/Hospital-Management-System)
 
 ## Contributing
 We welcome contributions! Please see our `CONTRIBUTING.md` file for guidelines on how to contribute to this project.
