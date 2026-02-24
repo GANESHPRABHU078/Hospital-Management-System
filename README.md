@@ -132,7 +132,7 @@
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/ravikumarxworkz/hospital-management-system.git
+   git clone https://github.com/GANESHPRABHU078/Hospital-Management-System.git
    ```
 
 2. **Database Setup**:
